@@ -1,0 +1,52 @@
+[
+  {
+    "id": 12345,
+    "cover": "https://example.com/cover12345.jpg",
+    "title": "The Chronicles of Azure",
+    "author": "Samantha West",
+    "author_img": "https://i.ibb.co/pjqCCW5/laptop-half-closed-dark-with-colourful-glow-cup-coffee-glasses.jpg",
+    "posted_date": "2024-02-18",
+    "reading_time": 25,
+    "hashtags": ["#Fantasy", "#Adventure", "#Magic"]
+  },
+  {
+    "id": 67890,
+    "cover": "https://example.com/cover67890.jpg",
+    "title": "Beyond the Horizon",
+    "author": "Max Rivers",
+    "author_img": "https://i.ibb.co/JzcW043/close-up-image-programer-working-his-desk-office.jpg",
+    "posted_date": "2024-02-17",
+    "reading_time": 30,
+    "hashtags": ["#ScienceFiction", "#Exploration", "#FutureWorld"]
+  },
+  {
+    "id": 24680,
+    "cover": "https://example.com/cover24680.jpg",
+    "title": "The Secret Garden of Serenity",
+    "author": "Emily Woods",
+    "author_img": "https://i.ibb.co/DK4LTX5/composition-with-html-system-websites-2.jpg",
+    "posted_date": "2024-02-16",
+    "reading_time": 20,
+    "hashtags": ["#Mystery", "#Nature", "#Discovery"]
+  },
+  {
+    "id": 13579,
+    "cover": "https://example.com/cover13579.jpg",
+    "title": "Echoes of Eternity",
+    "author": "Jason Knight",
+    "author_img": "https://i.ibb.co/68xVr4T/composition-with-html-system-websites-1.jpg",
+    "posted_date": "2024-02-15",
+    "reading_time": 35,
+    "hashtags": ["#HistoricalFiction", "#TimeTravel", "#LoveStory"]
+  },
+  {
+    "id": 54321,
+    "cover": "https://example.com/cover54321.jpg",
+    "title": "The Lost Symphony",
+    "author": "Sophia Lee",
+    "author_img": "https://i.ibb.co/W04Lvw6/composition-with-html-system-websites.jpg",
+    "posted_date": "2024-02-14",
+    "reading_time": 40,
+    "hashtags": ["#Music", "#Mystery", "#Art"]
+  }
+]
